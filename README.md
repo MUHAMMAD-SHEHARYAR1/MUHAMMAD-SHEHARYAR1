@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MUHAMMAD-SHEHARYAR1
 - 👀 I’m interested in Bioinformatics and Programming
-- 🌱 I’m currently learning Bioinformatics
-- 💞️ I’m looking to collaborate on computaional neurology
+- 🌱 I have done Bioinformatics
+- 💞️ I’m looking to collaborate on computaional Biologists, Data Scientists
 - 📫 How to reach me muhammadsheharyar1@outlook.com
 
 <!---
